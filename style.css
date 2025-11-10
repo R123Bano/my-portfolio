@@ -154,7 +154,8 @@ nav li:hover {
 }
 
 .card {
-  width: 320px;
+  width: 100%;
+  max-width: 320px;
   display: flex;
   flex-direction: column;
   border-radius: 0.5rem;
@@ -324,6 +325,7 @@ a:hover {
   height: 400px; /* optional */
   object-fit: cover;
 }
+
 
 
 
